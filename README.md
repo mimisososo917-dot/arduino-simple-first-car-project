@@ -47,7 +47,7 @@ The ultrasonic sensor constantly reads distance. If an object is closer than 12c
 ---
 
 ## 📝 Personal Notes & Challenges Faced
--* If the robot keeps spinning rather than moving forward in no-obstacle mode, you need to change the wiring of the motor driver (`OUT`).
+* If the robot keeps spinning rather than moving forward in no-obstacle mode, you need to change the wiring of the motor driver (`OUT`).
 
 * When using the Bluetooth module, you need to have **TX -> pin 2** and **RX -> pin 3**. You **cannot** change them, or else it won't work.
 
